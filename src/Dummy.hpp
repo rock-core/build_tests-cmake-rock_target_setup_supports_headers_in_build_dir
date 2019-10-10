@@ -1,11 +1,13 @@
-#ifndef _DUMMYPROJECT_DUMMY_HPP_
-#define _DUMMYPROJECT_DUMMY_HPP_
+#ifndef DUMMYPROJECT_DUMMY_HPP
+#define DUMMYPROJECT_DUMMY_HPP
+
+#include <rock_target_setup_supports_headers_in_build_dir/Generated.hpp>
 
 namespace rock_target_setup_supports_headers_in_build_dir
 {
     class DummyClass
     {
-        public: 
+        public:
             /**
              * Print a welcome to stdout
              * \return nothing

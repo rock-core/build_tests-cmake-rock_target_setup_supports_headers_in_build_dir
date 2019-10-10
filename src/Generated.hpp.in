@@ -1,0 +1,9 @@
+#ifndef ROCK_TARGET_SETUP_SUPPORTS_HEADERS_IN_BUILD_DIR_GENERATED
+#define ROCK_TARGET_SETUP_SUPPORTS_HEADERS_IN_BUILD_DIR_GENERATED
+
+namespace rock_target_setup_supports_headers_in_build_dir {
+    class Generated {
+    };
+}
+
+#endif
